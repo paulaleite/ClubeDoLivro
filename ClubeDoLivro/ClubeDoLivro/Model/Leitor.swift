@@ -11,6 +11,6 @@ import Foundation
 class Leitor {
     var nome: String?
     var email: String?
-    var senha: passwd?
+    var senha: String?
     var foto: String?
 }
